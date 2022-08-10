@@ -1,6 +1,12 @@
 # go-algorithm
 Some algorithm functions found in the c++ STL developed with generics (golang 1.18).
 
+# Install
+
+```sh
+go get github.com/AlexandreChamard/go-algorithm
+```
+
 # Examples
 
 ## Sorting
